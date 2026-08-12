@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "dustysouls",
+	"version": "${version}",
+	"name": "Dusty Souls",
+	"description": "The Ancient Souls are waiting for their revival!",
+	"authors": [
+		"MrDinster"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/dustysouls/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mrdinster.dustysouls.DustySouls"
+		],
+		"fabric-datagen": [
+			"net.mrdinster.dustysouls.DustySoulsDataGenerator"
+		]
+	},
+	"mixins": [
+		"dustysouls.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
