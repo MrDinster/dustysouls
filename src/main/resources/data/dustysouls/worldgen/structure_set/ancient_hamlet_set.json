@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "dustysouls:ancient_hamlet",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 8,
+    "spread_type": "linear",
+    "salt": 14357892
+  }
+}

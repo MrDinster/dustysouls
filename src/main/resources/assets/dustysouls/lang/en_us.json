@@ -1,0 +1,61 @@
+{
+  "item.dustysouls.tempus_pickaxe": "Tempus Pickaxe",
+  "item.dustysouls.telden_upgrade": "Telden Upgrade",
+  "item.dustysouls.telden_ingot": "Tempus Ingot",
+  "item.dustysouls.tempus_stone": "Tempus Stone",
+  "item.dustysouls.tempus_nugget": "Tempus Nugget",
+  "item.dustysouls.claws": "Claws",
+  "item.dustysouls.webbies": "Webbies",
+  "item.dustysouls.kear": "Kear",
+  "item.dustysouls.nangu": "Nangu",
+  "item.dustysouls.fruit_salad": "Fruit Salad",
+  "item.dustysouls.craked_egg": "Cracked Egg",
+  "item.dustysouls.slimus_ball": "Slimus Ball",
+  "item.dustysouls.ancient_stick": "Ancient Stick",
+  "item.dustysouls.glove": "Glove",
+
+  "item.dustysouls.telden_helmet": "Telden Helmet",
+  "item.dustysouls.telden_chestplate": "Telden Chestplate",
+  "item.dustysouls.telden_leggings": "Telden Leggings",
+  "item.dustysouls.telden_boots": "Telden Boots",
+
+  "item.dustysouls.remager_spawn_egg": "Remager Spawn Egg",
+  "item.dustysouls.dodo_spawn_egg": "Dodo Spawn Egg",
+  "item.dustysouls.trekker_spawn_egg": "Trekker Spawn Egg",
+  "item.dustysouls.fleagle_spawn_egg": "Fleagle Spawn Egg",
+  "item.dustysouls.boulder_spawn_egg": "Boulder Spawn Egg",
+  "item.dustysouls.scratch_spawn_egg": "Scratch Spawn Egg",
+  "item.dustysouls.creepus_spawn_egg": "Creepus Spawn Egg",
+
+  "block.dustysouls.dodo_egg": "Dodo Egg",
+  "block.dustysouls.trekker_egg": "Trekker Egg",
+  "block.dustysouls.fleagle_egg": "Fleagle Egg",
+
+
+  "sounds.dustysouls.dodo_idle": "Dodo Ambient",
+  "sounds.dustysouls.dodo_hurt": "Dodo Hurt",
+  "sounds.dustysouls.dodo_death": "Dodo Death",
+
+  "sounds.dustysouls.boulder_hurt": "Boulder Hurt",
+  "sounds.dustysouls.boulder_death": "Boulder Death",
+
+  "sounds.dustysouls.fleagle_idle": "Fleagle Ambient",
+  "sounds.dustysouls.fleagle_hurt": "Fleagle Hurt",
+  "sounds.dustysouls.fleagle_death": "Fleagle Death",
+
+  "sounds.dustysouls.lilchick_idle": "Little Fleagle Ambient",
+  "sounds.dustysouls.lilchick_hurt": "Little Fleagle Hurt",
+  "sounds.dustysouls.lilchick_death": "Little Fleagle Death",
+
+  "sounds.dustysouls.trekker_idle": "Trekker Ambient",
+
+  "sounds.dustysouls.scratch_hurt": "Scratch Hurt",
+
+  "entity.dustysouls.creepus": "Creepus",
+  "entity.dustysouls.scratch": "Scratch",
+  "entity.dustysouls.remager": "Remager",
+  "entity.dustysouls.boulder": "Boulder",
+  "entity.dustysouls.fleagle": "Fleagle",
+  "entity.dustysouls.trekker": "Trekker",
+  "entity.dustysouls.dodo": "Dodo"
+}

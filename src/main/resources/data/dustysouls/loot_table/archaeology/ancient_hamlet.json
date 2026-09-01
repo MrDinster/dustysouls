@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dustysouls:dodo_egg",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dustysouls:tempus_nugget",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dustysouls:webbies",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:clay_ball",
+          "weight": 5
+        },
+        {
+        "type": "minecraft:item",
+        "name": "minecraft:slime_ball",
+        "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tuff",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spider_eye",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:string",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dustysouls:kear",
+          "weight": 6
+        }
+      ]
+    }
+  ]
+}
