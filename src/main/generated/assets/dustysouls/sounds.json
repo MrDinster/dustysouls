@@ -1,0 +1,83 @@
+{
+  "boulder_death": {
+    "sounds": [
+      "dustysouls:boulder_death"
+    ],
+    "subtitle": "sounds.dustysouls.dodo_death"
+  },
+  "boulder_hurt": {
+    "sounds": [
+      "dustysouls:boulder_hurt"
+    ],
+    "subtitle": "sounds.dustysouls.boulder_hurt"
+  },
+  "dodo_death": {
+    "sounds": [
+      "dustysouls:dodo_death"
+    ],
+    "subtitle": "sounds.dustysouls.dodo_death"
+  },
+  "dodo_hurt": {
+    "sounds": [
+      "dustysouls:dodo_hurt"
+    ],
+    "subtitle": "sounds.dustysouls.dodo_hurt"
+  },
+  "dodo_idle": {
+    "sounds": [
+      "dustysouls:dodo_idle1",
+      "dustysouls:dodo_idle2"
+    ],
+    "subtitle": "sounds.dustysouls.dodo_idle"
+  },
+  "fleagle_death": {
+    "sounds": [
+      "dustysouls:fleagle_death"
+    ],
+    "subtitle": "sounds.dustysouls.fleagle_death"
+  },
+  "fleagle_hurt": {
+    "sounds": [
+      "dustysouls:fleagle_hurt"
+    ],
+    "subtitle": "sounds.dustysouls.fleagle_hurt"
+  },
+  "fleagle_idle": {
+    "sounds": [
+      "dustysouls:fleagle_idle"
+    ],
+    "subtitle": "sounds.dustysouls.fleagle_idle"
+  },
+  "lilchick_death": {
+    "sounds": [
+      "dustysouls:lilchick_death"
+    ],
+    "subtitle": "sounds.dustysouls.lilchick_death"
+  },
+  "lilchick_hurt": {
+    "sounds": [
+      "dustysouls:lilchick_hurt"
+    ],
+    "subtitle": "sounds.dustysouls.lilchick_hurt"
+  },
+  "lilchick_idle": {
+    "sounds": [
+      "dustysouls:lilchick_idle1",
+      "dustysouls:lilchick_idle2",
+      "dustysouls:lilchick_idle3"
+    ],
+    "subtitle": "sounds.dustysouls.lilchick_idle"
+  },
+  "scratch_hurt": {
+    "sounds": [
+      "dustysouls:scratch_hurt"
+    ],
+    "subtitle": "sounds.dustysouls.scratch_hurt"
+  },
+  "trekker_idle": {
+    "sounds": [
+      "dustysouls:trekker_idle"
+    ],
+    "subtitle": "sounds.dustysouls.trekker_idle"
+  }
+}

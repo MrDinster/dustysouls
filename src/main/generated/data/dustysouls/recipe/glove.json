@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "dustysouls:slimus_ball",
+    "dustysouls:claws",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "dustysouls:glove"
+  }
+}

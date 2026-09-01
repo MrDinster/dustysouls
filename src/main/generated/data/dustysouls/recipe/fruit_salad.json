@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "dustysouls:kear",
+    "dustysouls:nangu",
+    "dustysouls:webbies",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "dustysouls:fruit_salad"
+  }
+}

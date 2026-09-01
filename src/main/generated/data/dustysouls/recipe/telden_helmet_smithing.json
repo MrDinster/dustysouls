@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "dustysouls:telden_ingot",
+  "base": "minecraft:diamond_helmet",
+  "result": {
+    "id": "dustysouls:telden_helmet"
+  },
+  "template": "dustysouls:telden_upgrade"
+}

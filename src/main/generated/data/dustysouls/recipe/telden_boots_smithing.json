@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "dustysouls:telden_ingot",
+  "base": "minecraft:diamond_boots",
+  "result": {
+    "id": "dustysouls:telden_boots"
+  },
+  "template": "dustysouls:telden_upgrade"
+}

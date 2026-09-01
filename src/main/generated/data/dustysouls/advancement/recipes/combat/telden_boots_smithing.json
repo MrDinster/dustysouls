@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_telden_upgrade": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dustysouls:telden_upgrade"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dustysouls:telden_boots_smithing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_telden_upgrade"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dustysouls:telden_boots_smithing"
+    ]
+  }
+}

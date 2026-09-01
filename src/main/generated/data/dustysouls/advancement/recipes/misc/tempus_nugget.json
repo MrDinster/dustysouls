@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_tempus_stone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "dustysouls:tempus_stone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "dustysouls:tempus_nugget"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_tempus_stone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "dustysouls:tempus_nugget"
+    ]
+  }
+}

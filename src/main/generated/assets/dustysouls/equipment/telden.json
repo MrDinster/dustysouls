@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "dustysouls:telden"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "dustysouls:telden"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dustysouls:telden"
+      }
+    ]
+  }
+}

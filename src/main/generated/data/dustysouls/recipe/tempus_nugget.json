@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "dustysouls:tempus_stone"
+  ],
+  "result": {
+    "count": 9,
+    "id": "dustysouls:tempus_nugget"
+  }
+}

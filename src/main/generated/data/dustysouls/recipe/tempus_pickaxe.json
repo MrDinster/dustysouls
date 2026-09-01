@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "dustysouls:ancient_stick",
+    "S": "dustysouls:slimus_ball",
+    "T": "dustysouls:tempus_stone"
+  },
+  "pattern": [
+    "TST",
+    " A ",
+    " A "
+  ],
+  "result": {
+    "id": "dustysouls:tempus_pickaxe"
+  }
+}
