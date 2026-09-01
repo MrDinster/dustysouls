@@ -68,7 +68,6 @@ public class CreepusEntity extends Monster implements GeoEntity {
     @Override
     public void aiStep() {
         super.aiStep();
-        // Reducir el contador del cooldown en cada tick del servidor
         if (!this.level().isClientSide() && this.gasCooldownTicks > 0) {
             this.gasCooldownTicks--;
         }
