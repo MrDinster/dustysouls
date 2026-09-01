@@ -81,7 +81,7 @@ public class BoulderEntity extends Monster implements GeoEntity {
         } else {
             AABB area = this.getBoundingBox().inflate(4.0D, 4.0D, 4.0D);
 
-            // 1. Buscamos si hay jugadores cercanos, pero filtramos para que SOLO cuenten los que NO son inmunes (Ignora Creativo y Espectador)
+       
             boolean playerNearby = !this.level().getEntitiesOfClass(Player.class, area,
                     player -> !player.isSpectator() && !player.isCreative()).isEmpty();
 
@@ -91,9 +91,9 @@ public class BoulderEntity extends Monster implements GeoEntity {
                 for (LivingEntity entity : targets) {
                     if (entity != this) {
 
-                        // 2. Si la entidad afectada es un jugador, verificamos nuevamente que sea vulnerable
+    
                         if (entity instanceof Player player && (player.isCreative() || player.isSpectator())) {
-                            continue; // Si es creativo/espectador, salta esta entidad y no le hace nada
+                            continue; 
                         }
 
                         entity.hurtServer((ServerLevel) level(), this.damageSources().mobAttack(this), 7.0F);
